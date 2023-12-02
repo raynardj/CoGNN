@@ -1,0 +1,10 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+# torch="==2.0.1"
+# torchvision="==0.14.0.dev20220701"
+torch-geometric="==2.3.0"
+# torchmetrics="==0.9.3"
